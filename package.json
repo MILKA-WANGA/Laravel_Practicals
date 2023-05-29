@@ -1,0 +1,27 @@
+{
+  "name": "laravel_practicals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+      "dev": "nodemon server.js" 
+ 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MILKA-WANGA/Laravel_Practicals.git"
+  },
+  "author": "Milka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MILKA-WANGA/Laravel_Practicals/issues"
+  },
+  "homepage": "https://github.com/MILKA-WANGA/Laravel_Practicals#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.3.1"
+  }
+}
